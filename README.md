@@ -1,9 +1,8 @@
 
-# 基于微信小程序和nodejs的行程记录app
+# 基于 微信小程序 & NodeJS 的行程记录demo
 
- 该项目为前端训练营结营大作业，使用微信小程序完成了一个简单的行程记录和规划小程序，并有完整的注册登录系统，每个用户对应的账号可以分别注册多个地点用来规划行程，也可以给去过的地方添加行程日记，每个地点可以对应上传图片并分享给微信好友。对每个地点都有相应的增删查改操作。还有简单的景点买票服务，也可对订单进行修改。
+&emsp;&emsp;该项目为上海大学通信学院与携程旅行网于2022年3月联合开设的的前端训练营的结营大作业。该项目使用微信开发者工具完成了一个简单的行程记录和旅行规划小程序，并拥有完整的注册登录系统。每个用户所对应的账号可以通过标记注册多个地点用来规划行程，也可以给去过的地方添加行程日记。每个地点可以对应上传图片并分享给微信好友。对每个地点都有相应的增删查改操作。还有简单的景点买票服务，也可对订单进行修改。后端使用nodejs搭配mysql实现，可将数据上传至数据库中保存。
  <br />
- 后端使用nodejs搭配mysql实现，可将数据上传至数据库中保存。
 
 <!-- PROJECT SHIELDS -->
 
@@ -22,7 +21,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center"> 您的行程，即刻开始！</h3>
+  <h3 align="center"> Enjoy your trip !</h3>
 <!--   <p align="center">
     您的行程，即刻开始！
     <br />
@@ -38,7 +37,7 @@
 
 </p>
 
-##演示
+## 演示
 <div display="flex">
  <img src="image/1.png" alt="Logo" width="200" height="400">
  <img src="image/2.png" alt="Logo" width="200" height="400">
@@ -197,5 +196,5 @@ xxx@xxxx
  -->
  ### 鸣谢 
  
-   <a href="https://github.com/Qpicpicxxz">@陀不妥耶夫斯基 </a>
+   <a href="https://github.com/wangyouOVO">@忘忧OVOIII </a>
   
