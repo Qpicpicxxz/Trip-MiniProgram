@@ -44,6 +44,7 @@
   <img src="image/3.png" alt="Logo" width="200" height="400">
   <img src="image/4.png" alt="Logo" width="200" height="400">
 </div>
+
 ## 目录
 
 - [上手指南](#上手指南)
@@ -75,7 +76,7 @@
 1. Clone the project
 
 ```sh
-git clone https://github.com/wangyouOVO/trip-recorder-.git
+git clone git@github.com:Qpicpicxxz/Trip-ticketMiniProgram.git
 ```
 2. 配置您的数据库如下两表
 
